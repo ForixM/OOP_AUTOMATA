@@ -1,0 +1,230 @@
+{
+  "steel": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 1,
+      "coal": 1
+    }
+  },
+  "stone_brick": {
+    "amount": 1,
+    "ingredients": {
+      "stone_ore": 2
+    }
+  },
+  "gear": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 2
+    }
+  },
+  "iron_stick": {
+    "amount": 2,
+    "ingredients": {
+      "iron_ingot": 1
+    }
+  },
+  "pipe": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 4
+    }
+  },
+  "coil": {
+    "amount": 2,
+    "ingredients": {
+      "iron_ingot": 1,
+      "copper_ingot": 1
+    }
+  },
+  "iron_chest": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 4,
+      "coil": 2
+    }
+  },
+  "gold_chest": {
+    "amount": 1,
+    "ingredients": {
+      "gold_ingot": 4,
+      "coil": 2
+    }
+  },
+  "iron_tank": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 4,
+      "coil": 2,
+      "pipe": 6
+    }
+  },
+  "gold_tank": {
+    "amount": 1,
+    "ingredients": {
+      "gold_ingot": 4,
+      "coil": 2,
+      "pipe": 6
+    }
+  },
+  "furnace": {
+    "amount": 1,
+    "ingredients": {
+      "stone_brick": 4
+    }
+  },
+  "electric_furnace": {
+    "amount": 1,
+    "ingredients": {
+      "stone_brick": 8,
+      "coil": 10,
+      "gear": 3
+    }
+  },
+  "auto_crafter": {
+    "amount": 1,
+    "ingredients": {
+      "gear": 6,
+      "iron_stick": 3,
+      "coil": 5
+    }
+  },
+  "refinery": {
+    "amount": 1,
+    "ingredients": {
+      "pipe": 4,
+      "gear": 8,
+      "electronic_circuit": 2,
+      "steel": 5
+    }
+  },
+  "thermal_drill": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 4,
+      "gear": 4,
+      "furnace": 1
+    }
+  },
+  "electric_drill1": {
+    "amount": 1,
+    "ingredients": {
+      "electronic_circuit": 1,
+      "iron_ingot": 18,
+      "gear": 8
+    }
+  },
+  "electric_drill2": {
+    "amount": 1,
+    "ingredients": {
+      "electronic_circuit": 3,
+      "iron_ingot": 26,
+      "gear": 14
+    }
+  },
+  "electric_extractor1": {
+    "amount": 1,
+    "ingredients": {
+      "electronic_circuit": 1,
+      "iron_ingot": 18,
+      "gear": 8,
+      "pipe": 4
+    }
+  },
+  "electric_extractor2": {
+    "amount": 1,
+    "ingredients": {
+      "electronic_circuit": 3,
+      "iron_ingot": 26,
+      "gear": 14,
+      "pipe": 4
+    }
+  },
+  "belt": {
+    "amount": 1,
+    "ingredients": {
+      "gear": 1,
+      "iron_ingot": 1
+    }
+  },
+  "thermal_arm": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 1,
+      "gear": 2
+    }
+  },
+  "electric_arm": {
+    "amount": 1,
+    "ingredients": {
+      "electronic_circuit": 1,
+      "gear": 2,
+      "iron_ingot": 1
+    }
+  },
+  "electronic_circuit": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ingot": 2,
+      "copper_ingot": 2
+    }
+  },
+  "electric_pole": {
+    "amount": 1,
+    "ingredients": {
+      "coil": 1,
+      "iron_ingot": 2
+    }
+  },
+  "windmill": {
+    "amount": 1,
+    "ingredients": {
+      "engine": 1,
+      "pipe": 2,
+      "steel": 6
+    }
+  },
+  "pump": {
+    "amount": 1,
+    "ingredients": {
+      "engine": 1,
+      "pipe": 2,
+      "steel": 1
+    }
+  },
+  "thermal_power_plant": {
+    "amount": 1,
+    "ingredients": {
+      "gear": 1,
+      "pipe": 2,
+      "steel": 1
+    }
+  },
+  "petrol_power_plant": {
+    "amount": 1,
+    "ingredients": {
+      "stone_brick": 5,
+      "gear": 2,
+      "pipe": 10,
+      "steel": 4
+    }
+  },
+  "engine": {
+    "amount": 1,
+    "ingredients": {
+      "gear": 1,
+      "pipe": 2,
+      "steel": 1
+    }
+  },
+  "robot": {
+    "amount": 1,
+    "ingredients": {
+      "electronic_circuit": 10,
+      "engine": 8,
+      "steel": 5,
+      "iron_ingot": 20,
+      "plastic": 4
+    }
+  }
+}

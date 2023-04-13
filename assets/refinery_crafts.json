@@ -1,0 +1,10 @@
+{
+  "plastic": {
+    "amount": 2,
+    "ingredients": {
+      "water": 10,
+      "petrol": 20,
+      "coal": 1
+    }
+  }
+}

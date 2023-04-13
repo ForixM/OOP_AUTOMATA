@@ -1,0 +1,20 @@
+{
+  "iron_ingot": {
+    "amount": 1,
+    "ingredients": {
+      "iron_ore": 1
+    }
+  },
+  "copper_ingot": {
+    "amount": 1,
+    "ingredients": {
+      "copper_ore": 1
+    }
+  },
+  "gold_ingot": {
+    "amount": 1,
+    "ingredients": {
+      "gold_ore": 1
+    }
+  }
+}
